@@ -9,4 +9,4 @@ The aim of this course is to:
 * Highlight differences between Python and other languages,
 * Outline some best practices for code writing.
 
-This course is only 2 hours long so many of the details will not be expanded on. These notebooks are available to refresh your memory at any time. If you were a delegate, your (SageMathCloud)[http://cloud.sagemath.com] account will remain active.
+This course is only 2 hours long so many of the details will not be expanded on. These notebooks are available to refresh your memory at any time. If you were a delegate, your [SageMathCloud](http://cloud.sagemath.com) account will remain active.
